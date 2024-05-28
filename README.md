@@ -24,9 +24,13 @@
 - 📫 Reach me by [Telegram](https://t.me/rozghrom), [Email](raz15753@gmail.com)
 - 🌍 I speak English
 
+<img align="right" src="https://media.tenor.com/Xl1poZS6EzUAAAAi/sash-lilac-lilac.gif" width="200">
 ---
 
 ### Languages and tools
+
+
+
 
 <img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200">
 
