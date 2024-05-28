@@ -18,7 +18,7 @@
 
 ### About me
 - 🧠 I’m currently learning **Python**
-- 📝 I regularly use **CodWars** and write *Pet Projects*
+- 📝 I regularly use **CodWars** and write **Pet Projects**
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [Telegram](https://t.me/rozghrom), [Email](raz15753@gmail.com)
 - 🌍 I speak English
@@ -27,7 +27,7 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<div class="tenor-gif-embed" data-postid="14707385" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/azur-lane-game-character-gif-14707385">Azur Lane Game Sticker</a>from <a href="https://tenor.com/search/azur+lane-stickers">Azur Lane Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **rozghrom/rozghrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
