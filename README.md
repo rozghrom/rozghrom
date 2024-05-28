@@ -15,8 +15,6 @@
 </a>
 </div>
 
-<img align="right" src="https://media.tenor.com/Xl1poZS6EzUAAAAi/sash-lilac-lilac.gif" width="200">
-
 ### About me
 - 🧠 I’m currently learning **Python**
 - 📝 I regularly use **CodWars** and write **Pet Projects**
