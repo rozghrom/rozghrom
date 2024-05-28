@@ -15,19 +15,19 @@
 </a>
 </div>
 
-
+<img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200">
 ### About me
 - 🧠 I’m currently learning **Python**
 - 📝 I regularly use **CodWars** and write **Pet Projects**
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [Telegram](https://t.me/rozghrom), [Email](raz15753@gmail.com)
 - 🌍 I speak English
-<img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200">  
+
 ---
 
 ### Languages and tools
 
-<img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200">
+
 
 <!--
 **rozghrom/rozghrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
