@@ -3,6 +3,12 @@
 <h1>Hi there, I'm Artem</h1>
 <h3>Python Developer from Ukraine</h3>
 </div>
+<a ="Twitter-url">
+
+<img ="[https://img.shields. io/badge/LinkedIn-blue?style=for-the-
+badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Twitter-%20-%20?style=social&logo=Twitter&logoColor=black&labelColor=LightSlateGray&color=DarkSlateGray&link=https%3A%2F%2Fx.com%2Frozghrom
+)" alt="Twitter"/>
+</a>
 
 
 <!--
