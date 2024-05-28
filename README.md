@@ -26,7 +26,7 @@
 
 ### Languages and tools
 
-<img align="right" src="https://media.tenor.com/JMoGF6FMFVgAAAAi/uni-corn-asasas-azurlane.gif" width="150">
+<img align="right" src="https://media.tenor.com/JMoGF6FMFVgAAAAi/uni-corn-asasas-azurlane.gif" width="160">
 
 
 
