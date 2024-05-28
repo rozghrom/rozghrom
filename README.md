@@ -16,6 +16,7 @@
 </div>
 
 <img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200">
+
 ### About me
 - 🧠 I’m currently learning **Python**
 - 📝 I regularly use **CodWars** and write **Pet Projects**
