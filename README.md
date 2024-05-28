@@ -18,7 +18,7 @@
 ### About me
 - 🧠 I’m currently learning **Python**
 - 📝 I regularly use **CodWars** and write **Pet Projects**
-- 📄 Know about my experiences [CV](cv-link)  <img align="right" src="https://gifer.com/ru/embed/XOsa" width="200">
+- 📄 Know about my experiences [CV](cv-link)  <img align="right" src="https://media.tenor.com/7SPCcu15LtwAAAAi/azur-lane-cats.gif" width="150">
 - 📫 Reach me by [Telegram](https://t.me/rozghrom), [Email](raz15753@gmail.com)
 - 🌍 I speak English
 
