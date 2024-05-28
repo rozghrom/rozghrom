@@ -16,7 +16,6 @@
 </div>
 
 <img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="150">
-
 ### About me 
 
 - 🧠 I’m currently learning **Python** 
@@ -28,7 +27,9 @@
 ---
 
 <img align="right" src="https://media.tenor.com/JMoGF6FMFVgAAAAi/uni-corn-asasas-azurlane.gif" width="160">
+
 ### Languages and tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="py" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pyce" width="50" height="50"/>&nbsp;
 
