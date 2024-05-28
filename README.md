@@ -18,7 +18,7 @@
 
 ### About me
 - 🧠 I’m currently learning **Python**
-- 📝 I regularly use CodWars and write Pet Projects
+- 📝 I regularly use **CodWars** and write *Pet Projects*
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [Telegram](https://t.me/rozghrom), [Email](raz15753@gmail.com)
 - 🌍 I speak English
