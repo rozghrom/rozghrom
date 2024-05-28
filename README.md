@@ -3,7 +3,6 @@
 <h1>Hi there, I'm Artem</h1>
 <h3>Python Developer from Ukraine</h3>
 </div>
-<a ="Twitter-url">
 
 <a ="Linkedin-url">
 
