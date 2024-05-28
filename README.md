@@ -4,11 +4,8 @@
 <h3>Python Developer from Ukraine</h3>
 </div>
 
-<a ="Linkedin-url">
+https://img.shields.io/badge/Twitter-%20-%20?style=social&logo=Twitter&logoColor=black&labelColor=LightSlateGray&color=DarkSlateGray&link=https%3A%2F%2Fx.com%2Frozghrom
 
-<img ="https://img.shields. io/badge/LinkedIn-blue?style=for-the-
-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 <!--
 **rozghrom/rozghrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
