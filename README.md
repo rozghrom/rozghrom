@@ -27,7 +27,7 @@
 
 ### Languages and tools
 
-<div class="tenor-gif-embed" data-postid="14707385" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/azur-lane-game-character-gif-14707385">Azur Lane Game Sticker</a>from <a href="https://tenor.com/search/azur+lane-stickers">Azur Lane Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <!--
 **rozghrom/rozghrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
