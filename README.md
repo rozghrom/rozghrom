@@ -27,7 +27,7 @@
 
 ### Languages and tools
 
-<img align="right" src="https://tenor.com/ru/view/azur-lane-game-character-gif-14707385" width="200">
+<img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200">
 
 <!--
 **rozghrom/rozghrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
