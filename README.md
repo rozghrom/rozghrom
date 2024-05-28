@@ -25,7 +25,7 @@
 ---
 
 ### Languages and tools
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="python" width="40" height="40"/>&nbsp;
 <img align="right" src="https://media.tenor.com/JMoGF6FMFVgAAAAi/uni-corn-asasas-azurlane.gif" width="160">
 
 
