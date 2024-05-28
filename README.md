@@ -27,9 +27,8 @@
 ### Languages and tools
 
 
-<img align="right" src="https://media.tenor.com/7SPCcu15LtwAAAAi/azur-lane-cats.gif" width="200">
+<img align="right" src="https://media.tenor.com/7SPCcu15LtwAAAAi/azur-lane-cats.gif" width="150">
 
-<img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="150">
 
 
 <!--
