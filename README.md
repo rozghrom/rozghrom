@@ -13,10 +13,20 @@
 <a href="https://www.codewars.com/users/rozghrom">
     <img src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars"/>
 </a>
-
-
-
 </div>
+### About me
+- 🧠 I’m currently learning **Python**
+- 📝 I regularly use CodWars and write Pet Projects
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [Telegram](https://t.me/rozghrom), [Email](raz15753@gmail.com)
+- 🌍 I speak English
+  
+---
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+
 <!--
 **rozghrom/rozghrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
