@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars"/>
 </a>
 </div>
+
+
 ### About me
 - 🧠 I’m currently learning **Python**
 - 📝 I regularly use CodWars and write Pet Projects
