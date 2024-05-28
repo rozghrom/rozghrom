@@ -16,9 +16,9 @@
 </div>
 
 ### About me
-- 🧠 I’m currently learning **Python**
-- 📝 I regularly use **CodWars** and write **Pet Projects**
-- 📄 Know about my experiences [CV](cv-link)  <img align="right" src="https://media.tenor.com/7SPCcu15LtwAAAAi/azur-lane-cats.gif" width="150">
+- 🧠 I’m currently learning **Python** <img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="150">
+- 📝 I regularly use **CodWars** and write **Pet Projects** 
+- 📄 Know about my experiences [CV](cv-link)  
 - 📫 Reach me by [Telegram](https://t.me/rozghrom), [Email](raz15753@gmail.com)
 - 🌍 I speak English
 
@@ -27,9 +27,9 @@
 ### Languages and tools
 
 
+<img align="right" src="https://media.tenor.com/7SPCcu15LtwAAAAi/azur-lane-cats.gif" width="200">
 
-
-<img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200">
+<img align="right" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="150">
 
 
 <!--
