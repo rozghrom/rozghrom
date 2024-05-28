@@ -5,9 +5,7 @@
 </div>
 
 <a href="https://x.com/rozghrom">
-
-<img scr="https://img.shields.io/badge/Twitter-%20-%20?style=social&logo=Twitter&logoColor=black&labelColor=LightSlateGray&color=DarkSlateGray&link=https%3A%2F%2Fx.com%2Frozghrom
-" alt="Twitter"/>
+<img scr="https://img.shields.io/badge/%20build-Twitter-black?style=for-the-badge&logo=Twitter&logoColor=black&label=Twitter&labelColor=LightSlateGray&color=DarkSlateGray" alt="Twitter"/>
 </a>
 <!--
 **rozghrom/rozghrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
